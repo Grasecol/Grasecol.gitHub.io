@@ -1,0 +1,436 @@
+[{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c06"
+  },
+  "<!DOCTYPE html>": "<html lang=\"en\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c07"
+  },
+  "<!DOCTYPE html>": "<head>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c08"
+  },
+  "<!DOCTYPE html>": "    <meta charset=\"UTF-8\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c09"
+  },
+  "<!DOCTYPE html>": "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c0a"
+  },
+  "<!DOCTYPE html>": "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c0b"
+  },
+  "<!DOCTYPE html>": "    <title>Document</title>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c0c"
+  },
+  "<!DOCTYPE html>": "    <link rel=\"stylesheet\" href=\"../css/estilosCard.css\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c0d"
+  },
+  "<!DOCTYPE html>": "</head>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c0e"
+  },
+  "<!DOCTYPE html>": "<body>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c0f"
+  },
+  "<!DOCTYPE html>": "        <center>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c10"
+  },
+  "<!DOCTYPE html>": "            <h1 style=\"color:blue\">RINCONCITO CRIOLLO</h1>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c11"
+  },
+  "<!DOCTYPE html>": "            <h2 style=\"color: red;\"> \"PLATOS DE FONDO\" </h2>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c12"
+  },
+  "<!DOCTYPE html>": "        "
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c13"
+  },
+  "<!DOCTYPE html>": "        <br>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c14"
+  },
+  "<!DOCTYPE html>": "        </center>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c15"
+  },
+  "<!DOCTYPE html>": "        <br>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c16"
+  },
+  "<!DOCTYPE html>": "    <div class=\"main\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c17"
+  },
+  "<!DOCTYPE html>": "        <ul class=\"cards\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c18"
+  },
+  "<!DOCTYPE html>": "      "
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c19"
+  },
+  "<!DOCTYPE html>": "          <li class=\"cards_item\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c1a"
+  },
+  "<!DOCTYPE html>": "            <div class=\"card\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c1b"
+  },
+  "<!DOCTYPE html>": "              <h2 class=\"card_price\">S/. 10</h2>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c1c"
+  },
+  "<!DOCTYPE html>": "              <div class=\"card_image\"><img src=\"../Imágenes/Almuerzos/Imagen6.png\" alt=\" width=\"100%\"></div>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c1d"
+  },
+  "<!DOCTYPE html>": "              <div class=\"card_content\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c1e"
+  },
+  "<!DOCTYPE html>": "                <h1 class=\"card_title\"> AJI DE POLLO </h1>"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c1f"
+  },
+  "<!DOCTYPE html>": "                <div class=\"card_text\">"
+},{
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c20"
+  },
+  "<!DOCTYPE html>": "                    <p><span class=\"note\"><strong>Nuevo</strong></span></p>"
+},{
+  "0": "                    <p> Contiene: <p> Pollo",
+  "1": " leche",
+  "2": " ají amarillo",
+  "3": " pan de molde",
+  "4": " nueces picadas",
+  "5": " queso parmesano",
+  "6": " cebolla",
+  "7": " huevo",
+  "8": " aceitunas",
+  "9": " sal pimienta al gusto.</p>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c21"
+  }
+},{
+  "0": "                </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c22"
+  }
+},{
+  "0": "              </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c23"
+  }
+},{
+  "0": "            </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c24"
+  }
+},{
+  "0": "          </li>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c25"
+  }
+},{
+  "0": "      ",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c26"
+  }
+},{
+  "0": "          <li class=\"cards_item\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c27"
+  }
+},{
+  "0": "            <div class=\"card\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c28"
+  }
+},{
+  "0": "                <h2 class=\"card_price\">S/. 10</h2>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c29"
+  }
+},{
+  "0": "              <div class=\"card_image\"><img src=\"../Imágenes/Almuerzos/Imagen14.png\" alt=\" width=\"100%\"></div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c2a"
+  }
+},{
+  "0": "              <div class=\"card_content\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c2b"
+  }
+},{
+  "0": "                <h1 class=\"card_title\"> ARROZ CON POLLO </h1>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c2c"
+  }
+},{
+  "0": "                <div class=\"card_text\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c2d"
+  }
+},{
+  "0": "                  <p><span class=\"note\"><strong>Nuevo</strong></span></p>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c2e"
+  }
+},{
+  "0": "                  <p>En definitiva",
+  "1": " se trata de uno de los platos insignia del país. Contiene: <p> culantro",
+  "2": " espinaca",
+  "3": " pollo",
+  "4": " aceite vegetal",
+  "5": " cebolla",
+  "6": " ajo y pasta de ají.</p>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c2f"
+  }
+},{
+  "0": "                </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c30"
+  }
+},{
+  "0": "              </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c31"
+  }
+},{
+  "0": "            </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c32"
+  }
+},{
+  "0": "          </li>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c33"
+  }
+},{
+  "0": "      ",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c34"
+  }
+},{
+  "0": "          <li class=\"cards_item\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c35"
+  }
+},{
+  "0": "            <div class=\"card\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c36"
+  }
+},{
+  "0": "                <h2 class=\"card_price\">S/. 12</h2>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c37"
+  }
+},{
+  "0": "              <div class=\"card_image\"><img src=\"../Imágenes/Almuerzos/Imagen4.png\" alt=\" width=\"100%\"></div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c38"
+  }
+},{
+  "0": "              <div class=\"card_content\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c39"
+  }
+},{
+  "0": "                <h1 class=\"card_title\"> TALLARINES VERDES </h1>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c3a"
+  }
+},{
+  "0": "                <div class=\"card_text\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c3b"
+  }
+},{
+  "0": "                  <p><span class=\"note\"><strong>Nuevo</strong></span></p>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c3c"
+  }
+},{
+  "0": "                  <p>¿Amante de la pasta? Este plato es para ti. La salsa pesto es ideal para acompañar con pollo",
+  "1": " carne",
+  "2": " chancho o pescado.</p>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c3d"
+  }
+},{
+  "0": "                  ",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c3e"
+  }
+},{
+  "0": "                </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c3f"
+  }
+},{
+  "0": "              </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c40"
+  }
+},{
+  "0": "            </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c41"
+  }
+},{
+  "0": "          </li>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c42"
+  }
+},{
+  "0": "          <li class=\"cards_item\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c43"
+  }
+},{
+  "0": "            <div class=\"card\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c44"
+  }
+},{
+  "0": "                <h2 class=\"card_price\">S/. 15</h2>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c45"
+  }
+},{
+  "0": "              <div class=\"card_image\"><img src=\"../Imágenes/Almuerzos/Imagen7.png\" alt=\" width=\"100%\"></div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c46"
+  }
+},{
+  "0": "              <div class=\"card_content\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c47"
+  }
+},{
+  "0": "                <h1 class=\"card_title\"> CEVICHE DE PESCADO </h1>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c48"
+  }
+},{
+  "0": "                <div class=\"card_text\">",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c49"
+  }
+},{
+  "0": "                  <p><span class=\"note\"><strong>Nuevo</strong></span></p>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c4a"
+  }
+},{
+  "0": "                  <p>Nada más peruano que un buen ceviche de pescado. Este plato marino se disfruta en cualquier estación del año. <p>Contiene:<p> pescado cortado en dados de 1 cm",
+  "1": " cebolla cortada en tiras",
+  "2": " zumo de limón",
+  "3": " ají limo en rodajas pequeñas y perejil al gusto.</p>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c4b"
+  }
+},{
+  "0": "                </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c4c"
+  }
+},{
+  "0": "              </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c4d"
+  }
+},{
+  "0": "            </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c4e"
+  }
+},{
+  "0": "          </li>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c4f"
+  }
+},{
+  "0": "        </ul>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c50"
+  }
+},{
+  "0": "      </div>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c51"
+  }
+},{
+  "0": "    </center>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c52"
+  }
+},{
+  "0": "    <br>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c53"
+  }
+},{
+  "0": "    <center>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c54"
+  }
+},{
+  "0": "        <a style=\"color:black;\" href=\"../Páginas/Rinconcito1.html\"> Pagina Anterior</a>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c55"
+  }
+},{
+  "0": "    </center>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c56"
+  }
+},{
+  "0": "</body>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c57"
+  }
+},{
+  "0": "</html>",
+  "_id": {
+    "$oid": "62870adfe7007e4435e26c58"
+  }
+}]
